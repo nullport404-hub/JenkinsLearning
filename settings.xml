@@ -8,7 +8,7 @@
         <server>
             <id>artifactory</id>
             <username>admin</username>
-            <password>Password1</password>
+            <password>Password1!</password>
         </server>
     </servers>
 
